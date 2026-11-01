@@ -1,2 +1,1 @@
-# KaggleCompetitions
-Kaggle Competitions Prediction
+
